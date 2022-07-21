@@ -1,3 +1,3 @@
 # Correlation-Does-not-Imply-Causation
 
-<img src="Correlation-Does-not-Imply-Causation/Poster.JPG" width="128"/>
+<img src="/Poster.JPG" width="128"/>
